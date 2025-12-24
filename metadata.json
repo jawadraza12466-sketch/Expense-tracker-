@@ -1,0 +1,5 @@
+{
+  "name": "ExpenseTracker Pro",
+  "description": "A comprehensive, privacy-focused expense tracking dashboard featuring real-time analytics, category breakdowns, and monthly insights using local storage.",
+  "requestFramePermissions": []
+}
